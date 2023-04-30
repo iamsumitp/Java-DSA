@@ -1,20 +1,11 @@
-//{ Driver Code Starts
-//Initial Template for Java
-
 import java.util.*;
 import java.io.*;
-
-
-// } Driver Code Ends
-//User function Template for Java
 
 /*
 Worst case TC -> O(N^2)
 Best case TC -> O(N) --> When the entire array is already sorted and no swaps needed
 
 */
-
-
 class Solution
 {
     //Function to sort the array using bubble sort algorithm.
@@ -38,9 +29,7 @@ class Solution
         }
     }
 }
-
-//{ Driver Code Starts.
-
+//Main Class
 class BubbleSort
 {
     //method to print the Elements of the array
